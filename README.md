@@ -18,3 +18,10 @@ http://www.cnblogs.com/breezedeus/p/3496819.html
 
 SMO
 http://spiritsaway.info/smo.html
+
+
+https://www.zhihu.com/question/23311674/answer/235256926
+https://www.zhihu.com/question/309568920/answer/580226096
+CVX
+
+https://web.stanford.edu/~boyd/papers/admm/linprog/linprog.html
